@@ -91,7 +91,7 @@ hello.ash:4:12: semantic error: undefined variable 'nme'
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/yourname/ash
+git clone https://github.com/theakashkumar22/ash
 cd ash
 chmod +x install.sh
 ./install.sh
@@ -102,7 +102,7 @@ Installs to `~/.local/share/ash/` and adds `ash` to your PATH via `~/.bashrc` / 
 ### Windows
 
 ```bat
-git clone https://github.com/yourname/ash
+git clone https://github.com/theakashkumar22/ash
 cd ash
 install.bat
 ```
